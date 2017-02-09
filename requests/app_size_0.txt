@@ -1,0 +1,559 @@
+| com.audi.audicup                                               | Audi Football                                |  111145 |
+| com.snowball.app                                               | Snowball - Smart Notifications               |  111189 |
+| com.sennikpower.earspyultimate                                 | Super Hearing Spy Ultimate                   |  111208 |
+| com.speedetab.user                                             | SpeedETab                                    |  111231 |
+| com.huuuge.casino.slots                                        | Huuuge Casino & Slot Machines                |    6201 |
+| air.com.gamesys.mobile.slots.starspins                         | Star Spins Slots                             |    5553 |
+| com.wickeyware.minesofmars                                     | Mines of Mars Scifi Mining RPG               |    9412 |
+| com.TeaM.AvatarMusik                                           | Avatar Musik                                 |   22162 |
+| com.maltd.petsimulator                                         | Pet Simulator                                |   16355 |
+| com.mattel.MCSMMC                                              | Stop-Motion Movie Creator                    |  112538 |
+| com.dexcom.follow                                              | Dexcom Follow                                |  112653 |
+| com.pocketprep.ptcb                                            | Pharmacy Tech Exam Prep 2015                 |  112661 |
+| com.djloboapp.djlobo                                           | DJ Lobo                                      |  112759 |
+| com.monotype.android.font.theme.emoji1                         | Emoji Font for FlipFont 1                    |  112819 |
+| com.barringtontv.android.kgbt                                  | CBS 4 News                                   |  112940 |
+| com.kwik_kards                                                 | Kwik-Kards                                   |  113060 |
+| com.resetgame.par72golf4                                       | Par 72 Golf IV                               |   18445 |
+| com.sephora                                                    | Sephora to Go                                |  113457 |
+| com.root.LoniaSaga                                             | Lonia Saga                                   |   10067 |
+| com.RicardoRuiz.CrystalSword                                   | Crystal Sword (beta)                         |   10116 |
+| com.sixflags.android                                           | Six Flags                                    |  113797 |
+| com.bartthebear.CrossMatchLite                                 | Cross Match Lite                             |   24296 |
+| com.infernal.apptrivia                                         | Pop Stream                                   |   23342 |
+| com.readandspell.com.fourthgrade                               | Read & Spell Game Fourth Grade               |   23328 |
+| com.readandspell.com.fifthgrade                                | Read & Spell Game Fifth Grade                |   23410 |
+| com.readandspell.com.seventhgrade                              | Read & Spell Game 7th Grade                  |   23376 |
+| com.ember.cmdrz                                                | Commanders                                   |    5370 |
+| com.readandspell.com.thirdgrade                                | Read & Spell Game Third Grade                |   19396 |
+| com.readandspell.com.sixthgrade                                | Read & Spell Game Sixth Grade                |   19400 |
+| com.pandulapeter.FeelTheBeat                                   | Feel the Beat                                |   22684 |
+| com.meetville.dating                                           | Meetville - Dating App #1                    |  114561 |
+| com.skygolf.skycaddie                                          | SkyCaddie Mobile: Golf GPS                   |  114604 |
+| com.happysale                                                  | HappySale - Sell Everything                  |  114673 |
+| com.notabasement.fuzel.app                                     | Fuzel Collage                                |  114725 |
+| photo.editor.polarr                                            | Polarr Photo Editor                          |  114729 |
+| com.hamweather.aeriswear                                       | Aeris Wear Weather                           |  114939 |
+| com.crowdtunes.android                                         | CrowdTunes                                   |    3884 |
+| com.sesame.go                                                  | Sesame Street Go                             |    3837 |
+| com.aceable.aceablede_android                                  | Drivers Ed - TX Approved                     |  115053 |
+| com.pocketprep.nasm                                            | NASM® CPT Exam Prep 2015                     |  115065 |
+| com.pocketprep.massage                                         | Massage Therapy Exam Prep 2015               |  115287 |
+| com.pocketprep.fnp                                             | AANP® FNP Exam Prep 2015                     |  115292 |
+| com.pocketprep.vtne                                            | AAVSB® VTNE Exam Prep 2015                   |  115294 |
+| com.pocketprep.csmrn                                           | CMSRN® Med-Surg Exam Prep 2015               |  115308 |
+| com.automateddecision.decom.fp                                 | Fieldpiece Job Link                          |  115451 |
+| com.androidexperiments.landmarker                              | Landmarker                                   |  115582 |
+| com.androidexperiments.tunnelvision                            | Tunnel Vision                                |  115583 |
+| com.androidexperiments.lipflip                                 | Lip Swap                                     |  115584 |
+| wearablesoftware.wearlauncher                                  | Bubble Launcher - Android Wear               |  115597 |
+| com.dynojet.c3mobile                                           | Dynojet C3 Mobile                            |  115599 |
+| net.thinktie.qbi.interbayamon                                  | Qbi™ - Inter Bayamon                         |  115607 |
+| com.eyeye                                                      | Eyeye TV                                     |  115694 |
+| com.webupclose.gearfitweather                                  | Gear fit Weather                             |  115786 |
+| com.awscherb.materialweather                                   | MaterialWeather                              |  115803 |
+| com.mobile.tiaa.cref                                           | TIAA-CREF                                    |  115878 |
+| com.mc.miband1                                                 | Mi Band Notify V2                            |  115907 |
+| com.airtltd.betterdashpro                                      | Better Dash Torque Plugin                    |  115927 |
+| com.ncx.droid                                                  | National Carrier Exchange                    |  115953 |
+| com.asaelectronics.jrvcs1                                      | iN•Command                                   |  115960 |
+| edu.wit.apppath                                                | PATH                                         |  115980 |
+| net.loadtrek.droidtrek                                         | LoadTrek Android                             |  115987 |
+| mobileapplication.parkit                                       | ParkIT                                       |  116004 |
+| com.aaargb.homies                                              | HOMIES // Where's my car?                    |  116012 |
+| com.nationwide.mobile.android.nwmobile                         | Nationwide Mobile                            |  116218 |
+| com.movencorp.moven                                            | Moven                                        |  116232 |
+| com.pennyapp                                                   | Penny                                        |  116447 |
+| com.aeustech.weartipcalculator                                 | Wear Tip Calculator                          |  116579 |
+| com.aeustech.wearexpensetracker                                | Wear Expense Manager                         |  116589 |
+| com.stratoscard.android                                        | Stratos Card                                 |  116661 |
+| com.payzaconnect.android                                       | Payza Connect                                |  116696 |
+| com.hktpayment.tapngo                                          | Tap & Go                                     |  116715 |
+| com.vanilladigital.betaifan                                    | iFan Beta                                    |  116810 |
+| com.rasputinstudios.finalprice                                 | Final Price                                  |  116837 |
+| com.waterbasedintelligence.StreetOracle                        | Street Oracle                                |  116900 |
+| ajad_soft.com.exchangerates2                                   | Syrian Pound                                 |  116902 |
+| com.luxstack.LUXSTACK.android                                  | LUXSTACK for Bitcoin                         |  116990 |
+| com.kentverger.muzeiheroes                                     | Muzei Heroes                                 |  117119 |
+| com.goldenbrown.watches                                        | Luxury WatchFaces Android Wear               |  118529 |
+| com.pitchedapps.material.glass.free                            | Material Glass - CM12.x / RRO                |  118608 |
+| com.bocharov.xposed.fscb                                       | Flat Style Colored Bars                      |  118663 |
+| dd.watchmaster                                                 | WatchMaster - Watch Face                     |  118664 |
+| com.alexpasquarella.masque.simplicity                          | Masque Simplicity - Watch Face               |  118692 |
+| com.schnettler.art                                             | Art - Layers Theme                           |  118778 |
+| com.materialandroid.galaxy.s6.ironman.lockscreen               | Lock Screen inspired Iron Man                |  118817 |
+| max.unqe.dq                                                    | unqe cm12.1 theme                            |  118830 |
+| com.ngocgiap.lgg4theme                                         | G4 Theme for CM12/12.1                       |  118855 |
+| com.jerbeck24.SteelFree                                        | Steel - Layers Theme                         |  118858 |
+| com.materialandroid.oneplustwowallpapers                       | OnePlus Two HD Wallpapers 1+2                |  118882 |
+| io.sxedio.auto                                                 | Auto for KLWP                                |  118918 |
+| bl3ck.porto                                                    | PORTO Watch Face                             |  118954 |
+| com.nerdattack.digilogmix_watch                                | Digilog Mix-Watch                            |  119038 |
+| boxmus.kustomized.komponent                                    | Box - 12 music komponents KLWP               |  119052 |
+| bitsykolayers.InversionFree                                    | Inversion UI - Layers Theme                  |  119065 |
+| liuliu.mondrian_watch_face                                     | Mondrian Watch Face                          |  119165 |
+| fr.thema.wear.watch.futuristicgui                              | Futuristic GUI Watch Face                    |  119176 |
+| com.stevenschoen.emojiswitcher                                 | Emoji Switcher (root)                        |  119334 |
+| eu.chainfire.lumen                                             | CF.lumen                                     |  119558 |
+| com.gmd.immersive                                              | GMD Full Screen Immersive Mode               |  119577 |
+| aquaticlog.mobile.android                                      | AquaticLog                                   |  119644 |
+| com.kontakt.app                                                | Kontakt.io Management App                    |  119752 |
+| com.Qblinks.Qmote                                              | Qmote                                        |  119759 |
+| com.stout.jacob.laborstopclock                                 | Labor Stop Clock                             |  119861 |
+| pl.ximatic.android.gearservice                                 | Ximatic Gear Service                         |  119879 |
+| com.mocha17.slayer                                             | JorSay                                       |  119980 |
+| com.casual_dev.forcetouch                                      | Force Touch Demo                             |  119982 |
+| tf.nox.wifisetup                                               | CCC Camp 2015 Wifi Setup                     |  120043 |
+| co.otenti                                                      | Otentico                                     |  120118 |
+| com.copart.membermobile                                        | Copart Mobile                                |  120314 |
+| com.gpshopper.express.android                                  | EXPRESS                                      |  120377 |
+| com.flexshopper.flexshopper                                    | FlexShopper                                  |  120461 |
+| com.donellesandersjr.walmartbuddy                              | Shopping Buddy                               |  120682 |
+| com.masseranolabs.quickshop.android                            | Quickshop (Tango Prototype)                  |  120684 |
+| application.awladragabfinalcash2                               | أولاد رجب - Ragab Sons                       |  120725 |
+| com.misfitwearables.prometheus                                 | Misfit                                       |  120896 |
+| com.virginpulse.virginpulse                                    | Virgin Pulse                                 |  120912 |
+| by.sideproject.dashclock.fitbit                                | DashClock Fitbit Extension                   |  121103 |
+| com.lark.meadowlark2                                           | Lark Chat                                    |  121154 |
+| com.thesufferfest                                              | The Sufferfest                               |  121288 |
+| com.pocketprep.acsm                                            | ACSM® CPT Exam Prep 2015                     |  121294 |
+| pl.w9.moveupalert                                              | MoveUp! Sitting Alert for Wear               |  121369 |
+| com.whil.whil                                                  | whil                                         |  121412 |
+| com.blackhawk.walkingspree                                     | Blackhawk Walkingspree                       |  121468 |
+| com.angel.sample_app                                           | Angel Sensor                                 |  121471 |
+| net.pnsonline.waitfromhome                                     | Wait From Home                               |  121478 |
+| com.bowerusa.everlasthealth                                    | Everlast Health                              |  121490 |
+| xyz.plantchia.msbanddatastreamer                               | Data Stream for Microsoft Band               |  121521 |
+| com.idolmemory.imove                                           | iMove Fitness                                |  121529 |
+| com.reflex.ww.smartfoodscale                                   | Weight Watchers Smart Scale                  |  121532 |
+| com.BayCare.Mobile                                             | BayCare Health System                        |  121581 |
+| com.gyde.thermogauge                                           | Gyde - Thermogauge                           |  121590 |
+| com.ionicframework.greenpieproject918396                       | GreenPie                                     |  121626 |
+| au.gov.defencejobs.adfactive                                   | ADF Active                                   |  121662 |
+| com.chmoon.eightconstitution_lite                              | 8체질 가족건강지킴이(Lite.ver)               |  121689 |
+| com.a_11health.monitor_ble                                     | ostom-i                                      |  121704 |
+| com.tbs.smartmomapp                                            | SmartMom Baby Care                           |  121724 |
+| com.proximitydata.aj_sensor_playback                           | Alluvial Sensor Data Playback                |  121736 |
+| com.bitbylogic.android.workoutapp                              | WorkoutApp                                   |  121742 |
+| com.phealth.temperature                                        | phealthThermometer                           |  121754 |
+| com.gofitway.dailylegsworkouts                                 | Fitway: Daily Leg Workout                    |  121755 |
+| com.gofitway.dailychestworkouts                                | Fitway: Daily Chest Workout                  |  121764 |
+| de.st.swatchvolley                                             | Swatch Touch Zero One                        |  121821 |
+| com.sktelecom.app.smartband                                    | SKT 스마트밴드                               |  121857 |
+| com.helloheart.app                                             | Hello Heart – BP Monitor                     |  121921 |
+| com.fitbug.androidapp                                          | Fitbug                                       |  121925 |
+| com.baylorscottandwhite.healthsource                           | HealthSource                                 |  121941 |
+| com.ridecell.platform.leonidas.usc                             | USC Campus Cruiser                           |  122074 |
+| com.apcurium.MK.StLouisTaxi                                    | St. Louis Taxi                               |  122210 |
+| com.apcurium.MK.LacledeTaxi                                    | STLtaxi                                      |  122321 |
+| io.apptitude.premiumparking                                    | Premium Parking                              |  122348 |
+| acube.com.metromap                                             | Bangalore Metro                              |  122473 |
+| com.LTGExamPracticePlatform.Prep4SAT                           | Prep4 SAT                                    |  122591 |
+| com.sagosago.Friends.googleplay                                | Sago Mini Friends                            |  122721 |
+| mobi.playlearn.language.es                                     | Play & Learn SPANISH                         |  122883 |
+| com.pocketprep.lcsw                                            | ASWB® LCSW Exam Prep 2015                    |  122923 |
+| com.pocketprep.cissp                                           | CISSP® CBK-5 Exam Prep 2015                  |  122927 |
+| com.pocketprep.cscp                                            | APICS® CSCP Exam Prep 2015                   |  122948 |
+| com.pocketprep.ceh                                             | CEH® v8 Exam Prep 2015                       |  122951 |
+| com.pocketprep.msw                                             | ASWB® MSW Exam Prep 2015                     |  122956 |
+| com.pocketprep.care                                            | CA Real Estate Exam Prep 2015                |  122964 |
+| com.pocketprep.ase                                             | ASE® A-Series Exam Prep 2015                 |  122968 |
+| com.pocketprep.cfp                                             | CFP® Exam Prep 2015                          |  123017 |
+| com.pocketprep.asp                                             | BSCP® ASP Exam Prep 2015                     |  123018 |
+| com.pocketprep.bscm                                            | CPIM® BSCM Exam Prep 2015                    |  123040 |
+| com.pathsource                                                 | PathSource: Job & Career Guide               |  123077 |
+| hqt.apps.numberflashcards                                      | Number Flashcards                            |  123292 |
+| no.agens.depth                                                 | Depth Library Demo                           |  123323 |
+| com.babyfonics.babyfonics                                      | babyfonics genius™                           |  123401 |
+| com.foriero.musicschoolios                                     | Music School for Everyone                    |  123407 |
+| com.thinkproxi.jsu                                             | JSU Experience                               |  123484 |
+| com.acstechnologies.headmaster                                 | HeadMaster                                   |  123657 |
+| com.adobe.dpspubs.inspire                                      | Adobe Create magazine                        |  123736 |
+| com.fourseasons.mobileapp                                      | Four Seasons Hotels                          |  124168 |
+| com.booking.now                                                | Booking Now                                  |  124178 |
+| com.mvl.BayMills                                               | Bay Mills Resort & Casino                    |  124303 |
+| com.assaabloy.hospitality.mobileaccess.hospitalitymobileaccess | Hospitality Mobile Access                    |  124389 |
+| com.ckcnet.android.navily                                      | Navily                                       |  124502 |
+| com.maplocs                                                    | MapLocs – Locate Nearby Places               |  124557 |
+| www.gootit.com                                                 | Goot it                                      |  124594 |
+| com.applords.matongditu2                                       | Toilet 地图                                  |  124644 |
+| com.gine.app                                                   | GIFS                                         |  124829 |
+| co.mobius.vrcinema                                             | VR Cinema for Cardboard                      |  124891 |
+| com.cyberlink.powerdirector.DRA140414_02                       | PowerDirector - Bundle Version               |  124958 |
+| com.tvfi.tvfiwidget                                            | TVFi (Miracast/Screen Mirror)                |  125066 |
+| com.magix.android.met                                          | Movie Edit Touch - Video App                 |  125083 |
+| com.vr.cinema.hall                                             | VR Cinema Hall                               |  125254 |
+| com.redjelly.screen.recorder                                   | Screen Recorder                              |  125258 |
+| com.ayceme.recorder.vr                                         | VR Game Recorder                             |  125294 |
+| com.fotki.mobile                                               | Fotki                                        |  125305 |
+| com.irtza.stereocamera                                         | Stereo Camera                                |  125335 |
+| com.csyenter.csy.webdrama                                      | 웹드중독(웹드라마 모음)                      |  125348 |
+| jp.co.planex.smacametv                                         | PLANEX スマカメTV                            |  125406 |
+| com.cum.mediacapture                                           | Screen Recorder                              |  125457 |
+| com.miv.ytcamera                                               | Live Camera for YouTube                      |  125476 |
+| application.iranvideo.com                                      | Iran Video                                   |  125478 |
+| com.samsung.sta.retailagent.lite                               | US SAMSUNG RETAILMODE PLATFORM               |  125555 |
+| to.noc.android.swipeyours                                      | SwipeYours                                   |  125571 |
+| com.indigopost.lgstylo.english                                 | LG G Stylo (MS631) English                   |  125593 |
+| com.videobackgroundchat                                        | Chat-Video                                   |  125622 |
+| com.bluvision.beekstoolkit                                     | BEEKS Toolkit                                |  125673 |
+| com.samsung.dct.consumerretailagent.h                          | Samsung Mobile Insights                      |  125895 |
+| com.samsung.dct.retailagent.chagall                            | US GALAXY TAB S 10 RETAIL MODE               |  125950 |
+| com.kokhouser.napod                                            | NAPOD                                        |  125989 |
+| com.flashfoods.mpay                                            | Flash Foods Mobile                           |  126140 |
+| com.microsoft.powerbim                                         | Microsoft Power BI                           |  126288 |
+| com.infinisource.iSolved_hcm_mobile                            | iSolved Mobile                               |  126361 |
+| vip.mobile.idig                                                | iDIG Mobile                                  |  126505 |
+| com.ninefolders.hd3.work                                       | Nine Work                                    |  126509 |
+| com.mobileiron.tunnel.android.preview                          | MobileIron Tunnel Preview                    |  126556 |
+| com.presdo.match.leadsconnewyork2015                           | LeadsCon New York 2015                       |  126606 |
+| com.infor.mobilemyschedule                                     | Infor Lawson Mobile MySchedule               |  126610 |
+| com.wynright.wynsight_mobile                                   | Wynsight Mobile                              |  126668 |
+| com.experient.engageRAB                                        | Radio Show                                   |  126858 |
+| com.sitedocs.android                                           | SiteDocs                                     |  126883 |
+| com.mobirise.mobirise                                          | Mobirise Website Builder                     |  126946 |
+| com.wandera.android                                            | Wandera                                      |  126962 |
+| com.salesforce.dreamforce                                      | Dreamforce                                   |  126967 |
+| com.michaelflisar.socialcontactphotosync                       | Social Contact Photo Sync                    |  127265 |
+| com.beupfront                                                  | Upfront                                      |  127324 |
+| co.ibounce.bouncechatapp                                       | BounceChat - Share Nearby!                   |  127425 |
+| com.instalively.android                                        | InstaLively- Stream to YouTube               |  127469 |
+| com.sonnyporpiglia.innergroup                                  | InnerGroup                                   |  127514 |
+| muteb.instafollowers                                           | Followers                                    |  127523 |
+| com.ft.dad                                                     | D.A.D.                                       |  127524 |
+| co.rolli.rolli                                                 | Rolli                                        |  127530 |
+| com.ahmedazmi.thinkpad.mailmap                                 | 8in 1 app                                    |  127610 |
+| com.spangle.shout.client                                       | Shout!                                       |  127683 |
+| com.mobileservices.WhoScrewedUp                                | Who Screwed Up                               |  127764 |
+| com.findlife.menu                                              | MENU                                         |  127798 |
+| com.likeableapp.mobileplatform.android                         | Likeable Hub for Social Media                |  127891 |
+| com.cmpsoft.MediaBrowser                                       | PhotoGuru Media Browser                      |  128346 |
+| com.jeyluta.fisheyevideo                                       | FishEyeVideo Free                            |  128460 |
+| ndtsoft.viewfinder.forwear                                     | Remote Camera for Wear                       |  128514 |
+| tssystems.com.imagerepair                                      | Image Repair (Beta)                          |  128630 |
+| com.karl.modelrelease                                          | Model Release X                              |  128632 |
+| ilabs.ThermalCamera                                            | Thermal Camera Fx                            |  128935 |
+| com.tjx.thegoods                                               | The Goods                                    |  129038 |
+| com.chickfila.cfaflagship                                      | Chick-fil-A                                  |  129055 |
+| com.haomobile.MagicFinder                                      | Magic Finder - Find It Fast!                 |  129349 |
+| eu.ttmm.pebble                                                 | TTMM for Pebble Watch                        |  129466 |
+| by.si.soundsleeper.free                                        | Sound Sleeper - white noise                  |  129495 |
+| info.fathom.watchfaces.coubertin                               | Coubertin Rings: Watch Face                  |  129528 |
+| com.cornerstone                                                | Shaklee LIVE 2015                            |  129534 |
+| info.fathom.watchfaces.isaac                                   | Bouncing Isaac: Watch Face                   |  129546 |
+| info.fathom.watchfaces.gaze                                    | Gaze Effect: Watch Face                      |  129570 |
+| com.madmobile.autonation                                       | AutoNation                                   |  129578 |
+| com.fountain.Fountain                                          | Fountain: Live Expert Help                   |  129618 |
+| com.withings.home                                              | Withings Home Security Camera                |  129661 |
+| com.whatisflip.flip                                            | Flip - Buy & Sell Locally                    |  129678 |
+| com.materialandroid.galaxy.s6.edge.lockscreen                  | Lock Screen Galaxy S6 Edge NEW               |  129685 |
+| com.geniecompany.AladdinConnect                                | Aladdin Connect                              |  129840 |
+| com.axiomworks.watchfacedigital                                | Axiom Watch Faces                            |  130145 |
+| com.maxpreps.maxpreps                                          | MPCoach                                      |  130404 |
+| com.xcosoftware.miamiheat                                      | Miami HEAT                                   |  130462 |
+| com.bleachr                                                    | Bleachr                                      |  130500 |
+| com.suunto.movescount.android                                  | Suunto Movescount                            |  130555 |
+| com.idthk.wristband.ui.le.skechersgowalk                       | GOwalk™                                      |  130586 |
+| com.beupfront.socialchannel.mariasharapovaapp                  | Maria Sharapova Official App                 |  130651 |
+| com.ppnsports.android                                          | Peak Performance Network                     |  130844 |
+| ffc.droid                                                      | KFF.KZ                                       |  130954 |
+| com.weatherflow.windmeter                                      | Wind & Weather Meter                         |  131346 |
+| com.swarmnyc.watchfaces                                        | SWARM weather                                |  131387 |
+| com.frontier.selfserve                                         | MyFrontier                                   |  131602 |
+| com.wire                                                       | Wire                                         |  131604 |
+| com.polleverywhere.mobile                                      | Poll Everywhere                              |  131675 |
+| co.happybits.cleo                                              | Cleo for Messenger                           |  131693 |
+| com.yourkarma.android                                          | Karma WiFi                                   |  131798 |
+| com.joaomgcd.touchlesschat                                     | Touchless Chat                               |  131885 |
+| me.ack.yackme.lite                                             | yACKme LITE                                  |  132110 |
+| com.mdk.messenger                                              | MDK Messenger                                |  132171 |
+| org.imoobyte.webviewtest                                       | WebViewTest                                  |  132224 |
+| net.appwe.ticktalk                                             | Tic Talk                                     |  132235 |
+| com.chisw.ibeacon                                              | iBeaconScanner                               |  132242 |
+| radiopro.talk                                                  | RadioPro Talk                                |  132275 |
+| com.vor.onspot                                                 | OnSpotMe                                     |  132330 |
+| com.deseretdigital.bookshelf                                   | Deseret Bookshelf                            |  132489 |
+| com.zigzagworld.icjl.mytanach                                  | My Tanach (Hebrew Bible)                     |  132809 |
+| com.oryanmat.trellowidget                                      | Widget for Trello™                           |  133378 |
+| com.onshape.app                                                | Onshape                                      |  133735 |
+| com.microsoft.office.onenote.wear                              | OneNote for Android Wear                     |  133766 |
+| com.ChiefArchitect.RoomPlannerLE                               | Room Planner LE Home Design                  |  133876 |
+| com.sensafe.exact.idip                                         | eXact iDip                                   |  133915 |
+| qscaudio.touchmix.app1                                         | TouchMix                                     |  133987 |
+| com.ganzy.ashh2                                                | Gear Fit Smart Silencer 5                    |  134059 |
+| com.moveadvisor.bundle                                         | MoveAdvisor                                  |  134069 |
+| me.seed4.app.android                                           | Seed4.Me VPN                                 |  134108 |
+| com.efi.printmecloudNativeservice                              | PrintMe Cloud Print                          |  134111 |
+| com.bin.lop                                                    | Lop - record your screen                     |  134136 |
+| com.battery.percentageenabler                                  | Battery Percent Enabler                      |  134144 |
+| com.rdeng.temperatureconverter                                 | Temperature Converter                        |  134171 |
+| com.FSG.Android.IncarnationCatholicParish                      | Incarnation Catholic Parish                  |  134243 |
+| bbcg.debtmanager                                               | Debt Tracker                                 |  134314 |
+| com.prashanth.project3                                         | P2J- PDF to JPEG converter                   |  134336 |
+| com.pmann.treemap                                              | TreeMap                                      |  134419 |
+| com.ford.nafordowner                                           | Ford Owner                                   |  134521 |
+| com.barringtontv.android.wstm                                  | CNY Central                                  |  134602 |
+| com.barringtontv.android.wpbn                                  | UpNorthLive                                  |  134604 |
+| com.barringtontv.android.wpde                                  | Carolina Live                                |  134620 |
+| com.barringtontv.android.khqa                                  | KHQA                                         |  134648 |
+| com.barringtontv.android.krcg                                  | KRCG 13                                      |  134659 |
+| com.barringtontv.android.weyi                                  | NBC 25 News is miNBCnews.com                 |  134678 |
+| com.barringtontv.android.kvii                                  | ABC 7 Amarillo                               |  134811 |
+| com.cellit.cellitnews.wbma                                     | ABC 3340 News                                |  134831 |
+| com.barringtontv.android.wnwo                                  | NBC 24                                       |  134862 |
+| com.barringtontv.android.wluc                                  | TV6 & FOX UP                                 |  134880 |
+| com.cellit.cellitnews.wkrc                                     | WKRC Local 12                                |  134881 |
+| com.newssynergy.komo                                           | KOMO News Mobile                             |  134886 |
+| com.fli.googletv.newsmaxapp                                    | Newsmax TV                                   |  134932 |
+| au.com.timmutton.yarn                                          | Yarn for Hacker News                         |  135033 |
+| com.cellit.cellitnews.klew                                     | KLEW News                                    |  135381 |
+| com.cellit.cellitnews.kima                                     | KIMA CBS 29                                  |  135396 |
+| com.bqt.weirdstory                                             | Weird Story                                  |  135406 |
+| com.cellit.cellitnews.kepr                                     | KEPR CBS 19                                  |  135585 |
+| com.pocketprep.cna                                             | CNA Exam Prep 2015                           |  135712 |
+| com.pocketprep.nclexrn                                         | NCLEX® RN Exam Prep 2015                     |  135800 |
+| com.pocketprep.nclexpn                                         | NCLEX® PN Exam Prep 2015                     |  135879 |
+| com.advocate.myadvocate                                        | MyAdvocate Mobile                            |  135881 |
+| com.microhealth.app.vadisabilitycombinedcalculator             | VA Disability Calculator                     |  135999 |
+| com.starkey.trulink.android                                    | TruLink Hearing Control                      |  136003 |
+| com.pocketprep.npte                                            | NPTE-PT® Exam Prep 2015                      |  136072 |
+| com.pocketprep.cen                                             | BCEN® CEN Exam Prep 2015                     |  136073 |
+| com.pocketprep.rd                                              | Registered Dietitian Prep 2015               |  136077 |
+| com.pocketprep.pccn                                            | AACN® PCCN Exam Prep 2015                    |  136086 |
+| com.intelligentinsites.locate                                  | InSites Locate                               |  136224 |
+| sanbs.ryhila.mobiledonorblood                                  | Mobile Blood Donor Tracker                   |  136229 |
+| com.ikmultimediaus.android.amplitubeua                         | AmpliTube UA                                 |  136641 |
+| wearablesoftware.wearspotifyplayer                             | Wear Spotify For Android Wear                |  136644 |
+| com.jumpbyte.wearmusiclist                                     | Music Playlists for Wear                     |  136694 |
+| com.mattjamesashworth.callofdutyzombiessoundboard              | Zombies Soundboard                           |  136709 |
+| jp.oriental_soft.dancenapp                                     | Dance 'N App - Music Show                    |  136869 |
+| org.kpov.kpovstream                                            | KPOV Stream                                  |  137043 |
+| com.beautifulware.beautifulaudioeditor                         | Beautiful Audio Editor                       |  137055 |
+| jp.oriental_soft.popnapp                                       | Pop 'N App - Music Show                      |  137142 |
+| com.KeithAsford.TheSportsHub                                   | 98.5 The Sports Hub                          |  137213 |
+| com.magiccubegames.barcodeknightfree                           | Barcode Knight ( Ad Version )                |    5771 |
+| com.ikmultimediaus.android.igrandpianofree                     | iGrand Piano Free                            |  137550 |
+| com.Tasharen.WindwardPT                                        | Windward: Performance Test                   |  137807 |
+| com.skdvelopers.android.yts                                    | Yts-YIFY                                     |  137819 |
+| com.actiongameslab.nellyspuzzlejam                             | Nelly's Puzzle Jam                           |  138058 |
+| air.com.aenetworks.duckred.google                              | DuckDynasty®:BattleOfTheBeards               |   19975 |
+| com.codingforlove.wear.watchfaces                              | Time Mesh Watchface                          |    4335 |
+| com.simongeilfus.grove.grove                                   | Grove                                        |    4341 |
+| com.cellit.cellitnews.wciv                                     | ABC News 4                                   |  138345 |
+| com.comcast.lipsync                                            | XFINITY 1989 Lip Sync Sessions               |    4348 |
+| com.episodeinteractive.android.demi                            | Demi Lovato: Path to Fame                    |    5929 |
+| air.fire.game.zombiewar.dead.clashking                         | Dead Evil: Zombie War                        |  138448 |
+| com.igg.android.clashoflords2tr                                | Clash of Lords 2: Türkiye                    |    7099 |
+| uk.co.crashlab.crackAttack                                     | Crack Attack                                 |   20862 |
+| com.jackrabbitmobile.toned                                     | Toned - Home Workouts by NJFit               |  139446 |
+| com.cellit.cellitnews.woai                                     | WOAI News 4                                  |  139564 |
+| com.newssynergy.kboi                                           | KBOI Local Mobile News                       |  139574 |
+| com.o4games.android.knightsaga                                 | Knight Saga: Sword & Fire                    |    9901 |
+| com.tokmak.dinosaur                                            | Dino Sim: Jurassic Combat                    |   17733 |
+| com.nbcuni.ted2moviemakerinternational                         | Ted 2 MovieMaker International               |    4500 |
+| com.fonkapp.tobygames.tobygamesvideos                          | Toby Games Videos                            |    4533 |
+| com.stancedjdmdrft.wallpapers                                  | JDM Drift Cars                               |    4657 |
+| com.fonkapp.seananners.seanannersvideos                        | SeaNanners Gaming Channel                    |    4679 |
+| com.fonkapp.cinemassacre.cinemassacrevideos                    | James Nintendo Nerd Videos                   |    4712 |
+| kwpAndroid.kwpAndroid                                          | Klyde Warren Park                            |    4804 |
+| com.jordanhoman.Tender                                         | Tender - Food and Recipes                    |    4824 |
+| com.ecliptec.ts_riflemen                                       | Toy Soldiers: V2                             |    6660 |
+| com.amuzo.sshcam                                               | Cato and Macro                               |    6780 |
+| com.crescentmoongames.defenderzero                             | Siegecraft™ Defender Zero                    |    7074 |
+| com.robotani.SchoolFighterLite                                 | School Fighter                               |    8223 |
+| air.com.flowplay.FringoMobile                                  | Fringo Bingo & Slots Together                |    8825 |
+| tiktakgames.com.AllianceWarrior                                | Monster Quest -Evolve Monsters               |    9784 |
+| com.nivalvr.inmind                                             | InMind VR (Cardboard)                        |   10499 |
+| com.mcpeppergames.mylittlecarwash                              | My Little Car Wash                           |   10759 |
+| com.shapegame                                                  | Apeirogon Assault                            |   12470 |
+| com.tgp.simulator.horserace                                    | Horse Racing Simulator – Derby               |   13922 |
+| com.clius.realparking3d                                        | RealParking3D Parking Games                  |   13938 |
+| com.cogsoul.schoolbusdriver                                    | School Bus Driver                            |   13968 |
+| com.beansprites.mysteryhauntedhollowFREE                       | Mystery of Haunted Hollow FREE               |   15043 |
+| com.fateinadventure.mc.thenurse                                | Mystery Case: The Nurse                      |   15907 |
+| com.fateinadventure.mc.commodore1                              | Mystery Case: The Commodore 1                |   15961 |
+| com.cloudcade.shopheroes                                       | Shop Heroes                                  |   16857 |
+| com.thirdwire.sf.attack.android                                | Strike Fighters Attack                       |   17005 |
+| com.Fren2y.OneWarrior                                          | One man is The Man                           |   17024 |
+| app.mattel.BOOMcoExtreme                                       | BOOMco. Extreme                              |   18045 |
+| com.certifiedsoftwareservices.philsfishin                      | Phil's Fishin: Tournaments                   |   18178 |
+| de.sebspr.pongviewtest                                         | Beer Pong Stats                              |   18614 |
+| com.spilgames.shopaholicworld                                  | Shopaholic World: Dress Up                   |   19763 |
+| com.FHS.Origin                                                 | Origin                                       |   20514 |
+| com.evastudio.Mermaid                                          | Mermaid puzzle                               |   21021 |
+| com.htc.cs.identity                                            | HTC Service–HTC Account                      |  153044 |
+| io.eway.mpos                                                   | eWAY SmartPOS                                |  153115 |
+| com.dowell.yeed                                                | Yeed—all Kiev, Odessa + events               |  153119 |
+| com.karaoke.login                                              | bBoothGo                                     |  153120 |
+| riddlersoft.osr2                                               | Old School Racer 2                           |   13741 |
+| com.futura.jfmobile                                            | JPay                                         |  153323 |
+| com.parsifal.starz                                             | STARZ Play Arabia                            |    4951 |
+| com.genius.rifatrashid.loworbitioncannon                       | Low Orbit Ion Cannon (LOIC)                  |  153535 |
+| tr.com.fitwell.app                                             | FitWell Fitness, Health, Diet                |  153734 |
+| com.cellit.cellitnews.wset                                     | WSET ABC 13                                  |  153794 |
+| com.cellit.cellitnews.katv                                     | KATV Channel 7                               |  153795 |
+| com.cellit.cellitnews.ktul                                     | Tulsa’s Channel 8                            |  153799 |
+| com.gameplant.beetle_free                                      | Beetle Adventures Free                       |   15928 |
+| com.tribeca.sinatra                                            | TFF: Sinatra at 100                          |    4534 |
+| com.mediamonks.trickytitans                                    | Tricky Titans                                |    6566 |
+| com.bharaneedharan.demomap                                     | Local Spots                                  |  154315 |
+| com.asap54.android                                             | ASAP54                                       |   53295 |
+| com.ovote.ovoteapp                                             | oVote                                        |  154395 |
+| com.appspot.uiucbus                                            | CUMTD                                        |  154402 |
+| com.exigent.zombiesniper                                       | Zombie Sniper                                |    8104 |
+| com.alb.KP1                                                    | Kids Phonics 1: The Letters                  |   11162 |
+| com.xoise.mancala                                              | Mancala                                      |   23699 |
+| com.mobisystems.android.notifications                          | Notification Manager                         |   42959 |
+| com.fonkapp.moretdm.moretdmvideos                              | MoreTDM Videos                               |    4979 |
+| no.zeller.skatelines                                           | Skate Lines                                  |    8440 |
+| com.drashvr.titansofspacecb                                    | Titans of Space® for Cardboard               |   10646 |
+| com.readandspell.com.firstgrade                                | Read & Spell Game First Grade                |   11136 |
+| com.hiddenachievement.MetalGlove                               | Order of the Metal Glove                     |   12621 |
+| com.indiloop                                                   | Indiloop                                     |   22517 |
+| com.projet.voltaire                                            | Orthographe Projet Voltaire                  |   42045 |
+| com.rocapp.imagenesdehumor3                                    | Imagenes de humor 3                          |   42283 |
+| ru.sports.real                                                 | Реал Мадрид+ Sports.ru                       |   46581 |
+| com.bysaranyu.movieshd.onlines                                 | เด็กน่ารัก                                   |   47474 |
+| com.thirstystar.colorstatusbar                                 | Color Status Bar                             |   47822 |
+| com.scarletcake.android.wifidisplay                            | WiFi Display                                 |   52340 |
+| com.dejan.isceliteljska_molitva                                | Молитва за здравље                           |   65620 |
+| com.spicinemas                                                 | SPI Cinemas Movie Tickets                    |   55848 |
+| com.whimapp.whim                                               | Whim                                         |  161784 |
+| com.barringtontv.android.wfxl                                  | FOX 31 News                                  |  162438 |
+| com.m33i.stratus                                               | M33 Blackbeard                               |  162529 |
+| com.bluvision.beekstoo1kit                                     | BEEKS Toolkit                                |  162589 |
+| air.com.kellerwilliamsrealty.kwvideo.mobile                    | kwVideo                                      |  162757 |
+| com.acronis.acronistrueimage                                   | Acronis True Image Cloud                     |  162972 |
+| com.gamesport.BasketShot                                       | Basket Shooting                              |  163144 |
+| iflix.play                                                     | iflix                                        |   50868 |
+| com.spitfire.Flinch                                            | Flinch                                       |   19516 |
+| com.looksery.app                                               | Looksery                                     |   49232 |
+| dd.watchdesigner.mysteriousforest                              | Mysterious Forest watchface                  |  164039 |
+| dd.watchdesigner.graffiti                                      | Graffiti watchface by Lluvia                 |  164040 |
+| dd.watchdesigner.fiore                                         | Fiore watchface by Iris                      |  164044 |
+| com.wearclan.watchface.zoom                                    | Zoom Watch Face                              |  164045 |
+| com.aceft                                                      | Ace for Twitch                               |   59435 |
+| com.englishwords.englishwords                                  | Pick Up English                              |   11319 |
+| air.com.prisma.My5SOS                                          | My 5SOS - 5 Seconds of Summer                |   20313 |
+| com.recloak.littlealchemyhints                                 | Little Alchemy Official Hints                |   21092 |
+| com.jrdcom.boomband                                            | ALCATEL ONETOUCH BOOMBAND LIFE               |   36494 |
+| com.fairyapp.pushup                                            | Push Up English                              |   11221 |
+| com.ninfealomascolo.twiwd                                      | Wrong direction:city driver 2D               |   13871 |
+| com.TSITAPH.Verisimilitude_II                                  | Verisimilitude II                            |   16218 |
+| com.gts.RealDutyTaxiDriver2015                                 | Real Duty Taxi Driver 2015                   |   17501 |
+| com.fullsix.android.labanquepostale.accountaccess              | La Banque Postale                            |   36798 |
+| com.apple88city.amsrec.android                                 | My Screen Recorder - Free Rec                |  164659 |
+| com.fonkapp.dashiegames.dashiegamesvideos                      | DashieGames Videos                           |    4371 |
+| com.digiflare.tvacademy                                        | Emmy Nominees                                |    4555 |
+| com.disney.starwarsrebels_goo                                  | Star Wars Rebels: Missions                   |    7339 |
+| com.dinesa.RiverTest                                           | The River Test                               |   11277 |
+| com.disney.clubpenguinsledracer_goo                            | Club Penguin Sled Racer                      |   41792 |
+| com.app.deadmau5                                               | deadmau5                                     |    4144 |
+| net.hostiowa.apps.knoxville                                    | Knoxville Raceway                            |    4818 |
+| com.spiraltoys.cloudpets2                                      | CloudPets App                                |    5002 |
+| com.nbcuni.jurassicworldmoviemaker                             | Jurassic World MovieMaker                    |    3774 |
+| com.fonkapp.tmartn.tmartnvideos                                | TmarTn Videos                                |    4796 |
+| com.fonkapp.mrwoofless.mrwooflessvideos                        | MrWoofless Videos                            |    4803 |
+| com.silicondroid.galaxyvr                                      | Galaxy VR Cardboard Space FPS                |    6355 |
+| com.kapuso.teleserye                                           | Kapuso Teleserye                             |    4593 |
+| com.tenbirds.ire                                               | Ire:Blood Memory                             |    7833 |
+| com.readandspell.com.secondgrade                               | Read & Spell Game Second Grade               |   11116 |
+| com.lojugames.games.transmission                               | Transmission                                 |   20917 |
+| com.lamudi.android                                             | Lamudi Real Estate App                       |   36581 |
+| com.airthemes.ctrairtheme                                      | Cut the Rope Theme                           |   44593 |
+| com.galaxytheme.tiles                                          | Note4 Tiles Locker                           |   53786 |
+| com.ltp.launcherpad                                            | X launcher-Mysterious Free Apt               |   55182 |
+| com.maartendekkers.cmapp                                       | CM Apps                                      |   57374 |
+| br.com.mototoquesgxe                                           | RingTones Moto G / X / E                     |   60033 |
+| com.kauf.talking.talkingprincessfarmvillage                    | Talking Princess: Farm Village               |   67500 |
+| ru.sports.barcelona                                            | Барселона+ Sports.ru                         |   45735 |
+| com.shottracker.player                                         | ShotTracker Player                           |  169512 |
+| com.rpagyc.monthcalwidget                                      | Simple Calendar Widget                       |   48701 |
+| com.jaggam.GraceDiary                                          | Grace's Diary                                |   11383 |
+| com.vitotechnology.WhatTheQuote                                | Next Quote - What's the Quote?               |   19355 |
+| ru.tv1.kino                                                    | Первый Онлайн-Кинотеатр                      |   47518 |
+| air.com.figment.crayolas                                       | Crayola Juego Pack Multijuegos               |   49181 |
+| com.clearvisions.explorer                                      | Root Power Explorer                          |   49645 |
+| com.tcl.acc                                                    | Smart Control                                |   52827 |
+| com.freecup.launcher                                           | OS8 Launcher                                 |   55948 |
+| com.shakingearthdigital.vrsecardboard                          | Vrse - Virtual Reality                       |   57602 |
+| com.jolla.launcher.stella                                      | Angry Birds Stella Launcher                  |   59691 |
+| com.dogalize                                                   | Dogalize - Pet Social Network                |   60148 |
+| ru.appscraft.numismatist                                       | Numismatist                                  |   63389 |
+| com.ionicframework.tubesmash234073                             | Tubesmash                                    |   68493 |
+| com.xper.streetpanorama                                        | Street Panorama                              |   69675 |
+| com.transfast.transfast                                        | Transfast                                    |  176663 |
+| com.notquiteinsane.galaxybuttonlights                          | Galaxy Button Lights                         |  176943 |
+| com.offcolor.app                                               | Off Color                                    |  177045 |
+| edu.purdue.dining.menus                                        | Purdue Mobile Menus                          |  177308 |
+| com.PrimalPictures.FootViewer                                  | Leg and Foot: 3D RT - Sub                    |  177373 |
+| com.PrimalPictures.SpineViewer                                 | Spine: 3D RT - Sub                           |  177374 |
+| com.PrimalPictures.ThoraxViewer                                | Thorax: 3D RT - Sub                          |  177376 |
+| org.unlimited.vessel.butter.bitbot_beta                        | BitBot                                       |  177420 |
+| com.vg.offroadtouristbusdriver                                 | Off Road Tourist Bus Driving                 |  177467 |
+| edu.osu.osumobile                                              | Ohio State                                   |  177544 |
+| com.newssynergy.katu                                           | KATU News Mobile                             |  177630 |
+| com.haphazrd.movblox0                                          | MovBlox                                      |  177743 |
+| org.carpenters.mainapp                                         | UBC 2015                                     |  177979 |
+| com.juventus.app.android                                       | Juventus                                     |  178098 |
+| com.PrimalPictures.HipViewer                                   | Hip and Thigh: 3D RT - Sub                   |  178134 |
+| com.fluerapps.scaredcreaturesfree                              | Scared Creature Live Wallpaper               |  178215 |
+| com.mathletics.android.samsung                                 | Mathletics Student                           |  178344 |
+| com.videonasocialmedia.videona                                 | Videona Real Time Video editor               |  178444 |
+| soomo.learning.app                                             | Webtext Reader                               |  178496 |
+| com.appmindlab.nano                                            | neutriNote                                   |  178506 |
+| com.fonkapp.stampy.stampylongheadvideos                        | Stampy Long Head Videos                      |    4960 |
+| com.omais.watch.smileface                                      | Smile Watch Face                             |  178624 |
+| com.corbt.worddream                                            | Word Dream                                   |  178860 |
+| com.cellit.cellitnews.wpec                                     | WPEC CBS12 News                              |  179033 |
+| com.driverslittlehelper.carseatmonitor                         | Driver's Little Helper                       |  179240 |
+| com.kci.ontrack.mobile.provider.droid                          | iOn Healing™                                 |  179295 |
+| com.sonymobile.wearable.watchface2                             | Watch Faces for Smartwatch 3                 |  179353 |
+| com.tyriansystems.SeekThermal                                  | Seek Thermal                                 |  179462 |
+| com.experient.engageGMT                                        | Greenway Health ENGAGE15                     |  179523 |
+| tab.app.annguyen.toolbar                                       | QFP                                          |  179647 |
+| tv.groopie.groopie                                             | Groopie                                      |  179678 |
+| net.ocfl.android.newsroom                                      | OCFL News                                    |  179849 |
+| com.curiomakers.kkfamily                                       | Knock Knock Family                           |  179885 |
+| com.perryweather.pocketperry                                   | PocketPerry - Lightning Alerts               |  179906 |
+| com.thinknear.weatherdemo                                      | Thinknear Weather                            |  179908 |
+| osburd.thermal.enhance                                         | Therm-App Enhancement                        |  179938 |
+| com.lovejoy777.showcase                                        | Layers Showcase                              |  180084 |
+| com.aemaapp.mathface                                           | Math Watch Face                              |  180101 |
+| com.wearclan.watchface.skeleton                                | Blue skeleton Watch Face                     |  180105 |
+| com.asurion.solutohome.asurionfriends                          | Asurion Friends                              |  180117 |
+| com.servicemax.mobile.android.spr15                            | ServiceMax Spring 15                         |  180148 |
+| com.blake.sleep                                                | Sleep                                        |  180348 |
+| com.fonkapp.zackscottgames.zackscottgamesvideos                | ZackScottGames Videos                        |    4439 |
+| com.challengedapp.challenged                                   | Challenged                                   |  180428 |
+| com.wordmania.com.whoswho                                      | Word Mania: Crack the Word                   |  180476 |
+| com.wordlearning.com.forkids                                   | Word Learning Game For Kids                  |  180477 |
+| com.solderbyte.openfit                                         | Open Fit: Open Source Gear Fit               |  180490 |
+| com.irco.commercial.marketing.NX8000.AR                        | TURBO-AIR NX 8000: AR                        |  180496 |
+| com.microsoft.office.powerpoint                                | Microsoft PowerPoint                         |     811 |
+| com.gameinsight.airport                                        | Airport City                                 |    1197 |
+| com.vectorunit.purple.googleplay                               | Beach Buggy Racing                           |   12805 |
+| ru.crazybit.experiment                                         | Island Experiment                            |    5397 |
+| com.igs.slotsparadise                                          | Slots Paradise™                              |    5525 |
+| de.mobilebits.soulcraft2                                       | SoulCraft 2 - Action RPG                     |    9493 |
+| com.ThirdWire.StrikeFightersAndroid                            | Strike Fighters                              |   16909 |
+| com.crossfield.namsterlife                                     | Hamster Life                                 |   19818 |
+| com.uplayonline.karmarun                                       | KarmaRun                                     |   39565 |
+| com.harebrainedschemes.golemarcana                             | Golem Arcana                                 |   23945 |
+| com.epson.mobilephone.android.epsonprintserviceplugin          | Epson Print Enabler                          |  119196 |
+| com.asus.collage                                               | Photo Collage - Collage Maker                |  128909 |
+| ma.wanam.xposed                                                | Wanam Xposed                                 |  133710 |
+| com.littleiapps.missio                                         | Missio                                       |  343564 |
+| com.gpaddy.screen.recorder.screenshoot                         | Screen Recorder & Capture 5.0+               |  354280 |
+| com.monggo.piChat                                              | PiChat                                       |  314616 |
+| com.konecty.rocket.chat                                        | Rocket.Chat                                  |  334576 |
+| com.centurylink.ctl_droid_wrap                                 | CenturyLink Consumer                         |  352219 |
+| com.seedlabs.gb                                                | Generation Blue 2015                         |  315065 |
+| com.apcurium.MK.CentralTaxiNiagara                             | Central Taxi Niagara                         |  319093 |
+| com.crapps.curacaoapp                                          | Curaçao App                                  |  324708 |
+| net.appersian.android.wod.playedition                          | World Of Dinosaurs                           |  341074 |
+| com.apcurium.MK.UnitedCabSaskatoon                             | United Cabs                                  |  349145 |
+| com.quarking.apollo                                            | Quarking                                     |  349528 |
+| com.koove                                                      | Buy 'n' Sell - Koove                         |  350248 |
+| com.barringtontv.android.wach                                  | WACH FOX Mobile                              |  352529 |
+| pl.ayground.elementary.free                                    | Elementary Free                              |  360960 |
