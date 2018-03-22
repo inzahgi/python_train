@@ -1,0 +1,10 @@
+.project
+*target
+.project
+*test-output
+*.hibernateSynchronizer
+.idea/
+*.iml
+.externalToolBuilders
+.cache/
+*.xml
