@@ -35,7 +35,7 @@ print(x_group)
 plt.subplot(311)
 plt.title("Dot Plot by Frequency")
 
-plt.plot(y_,x_,'ro')
+plt.plot(y_, x_,'ro')
 plt.xlabel('Count')
 plt.ylabel('# Presedential Request')
 plt.xlim(min(y_)-1, max(y_)+1 )
