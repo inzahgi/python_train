@@ -35,10 +35,10 @@ print(x_group)
 plt.subplot(311)
 plt.title("Dot Plot by Frequency")
 
-plt.plot(y_, x_,'ro')
+plt.plot(y_.tolist(), x_.tolist(),'ro')
 plt.xlabel('Count')
 plt.ylabel('# Presedential Request')
-plt.xlim(min(y_)-1, max(y_)+1 )
+plt.xlim(min(y_.tolist())-1, max(y_.tolist())+1 )
 
 plt.subplot(312)
 plt.title("Simple dot plot")
@@ -56,7 +56,7 @@ for key, value in x_freq.items():
     plt.ylim(0.0, 0.4)
     plt.xlim(xmin=-1)
 
-plt.xticks(x_freq.keys())
+plt.xticks(list(x_freq.keys()))
 
 plt.subplot(313)
 x_vals = []
