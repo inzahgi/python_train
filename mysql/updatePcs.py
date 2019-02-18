@@ -6,12 +6,12 @@ import mysql.connector
 import os
 import sys
 import time
+import random
 
 user = ''
 password = ''
 host = '172.16.16.12'
 port = '3306'
-
 
 
 class Db_sync:
@@ -34,18 +34,21 @@ class Db_sync:
         self.get_area_dict()
         self.get_pcs_dict()
 
+        self.area_list = list(self.area_dict.keys())
+        self.pcs_list = list(self.pcs_dict.keys())
+
         # print("line = 36 area_dict = {}\n".format(self.area_dict))
         # print("line = 37 pcs_dict = {}\n".format(self.pcs_dict))
         # print("line = 38 area_pcs_dict = {} \n".format(self.area_pcs_dict))
         # print("line = 39 pcs_area_dict = {} \n".format(self.pcs_area_dict))
         offset = 0
-        limit = 10
+        limit = 10000
         while offset < self.score_total:
             res_list = self.get_score_by_page(offset, limit)
             # print(res_list)
-
-            break;
-
+            self.batch_update(res_list)
+            ##break
+            print("offset = {}".format(offset))
             offset += limit
 
 
@@ -81,7 +84,6 @@ class Db_sync:
         try:
             self.cur.execute('select pcsName, pcsCode, areaCode, areaName from t_police_substation_info')
             for pcsName, pcsCode, areaCode, areaName in self.cur:
-                # print("pcsName = {}, pcsCode = {}, areaCode = {}, areaName = {}".format(pcsName, pcsCode, areaCode, areaName))
                 self.pcs_dict[pcsCode] = pcsName
                 self.pcs_area_dict[pcsCode] = areaCode
                 if self.area_pcs_dict.get(areaCode) is None:
@@ -92,24 +94,46 @@ class Db_sync:
         except mysql.connector.Error as e:
             print('query error!{}'.format(e))
 
-    def get_score_by_page(self, limt, offset):
+    def get_score_by_page(self, offset, limit):
         try:
-            self.cur.execute('select id from t_phone_info_credit')
+            self.cur.execute('select id, areaCode, controlStationId, subStationId from t_phone_info_credit limit %s offset %s', (limit, offset))
             res_list = []
-            for id in self.cur:
-                # print("pcsName = {}, pcsCode = {}, areaCode = {}, areaName = {}".format(pcsName, pcsCode, areaCode, areaName))
-                res_list.append(id)
+            for id, areaCode, controlStationId, subStationId in self.cur:
+                tmp = {}
+                tmp['id'] = id
+                tmp['areaCode'] = areaCode
+                tmp['controlStationId'] = controlStationId
+                tmp['subStationId'] = subStationId
+                res_list.append(tmp)
             return res_list
         except mysql.connector.Error as e:
             print('query error!{}'.format(e))
 
-    def batch_update(self, idList):
-        id = data['id']
-        if data['areaCode'] not in self.area_dict:
-            return id
-        if data['controlStationId'] not in self.pcs_dict:
-            return id
-        ##if data[]
+    def batch_update(self, list):
+        try:
+            for d in list:
+                flag = False
+                id = d['id']
+                areaCode = d['areaCode']
+                if self.area_dict.get(areaCode) is None:
+                    flag = True
+                controlStationId = d['controlStationId']
+                if self.pcs_dict.get(controlStationId) is None:
+                    flag = True
+                subStationId = d['subStationId']
+                if self.pcs_dict.get(subStationId) is None:
+                    flag = True
+                if flag:
+                    areaCode = self.area_list[random.randint(0,len(self.area_list) -1)]
+                    controlStationId = self.pcs_list[random.randint(0, len(self.pcs_list) -1)]
+                    subStationId = self.pcs_list[random.randint(0, len(self.pcs_list) -1)]
+
+                    self.cur.execute('update t_phone_info_credit set areaCode = %s , controlStationId = %s, '
+                             'subStationId = %s where id = %s', (areaCode, controlStationId, subStationId, id))
+
+        except mysql.connector.Error as e:
+            print('query error!{}'.format(e))
+
 
 
 
